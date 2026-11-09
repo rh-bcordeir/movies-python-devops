@@ -1,2 +1,3 @@
 image:
-  tag: latest
+  tag: 4b1eb46
+  repository: quay.io/rh-ee-bcordeir/movies-python
